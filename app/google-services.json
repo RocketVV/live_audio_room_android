@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "759986651228",
+    "project_id": "zegoliveaudio",
+    "storage_bucket": "zegoliveaudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759986651228:android:62fcadc1dffb3d96436699",
+        "android_client_info": {
+          "package_name": "im.zego.liveaudioroomdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759986651228-1c6310p4v5rc6235r2u6bpigk223ajrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5m3UB3x4tbDwAVrpG7I6BgA1flU0QxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759986651228-1c6310p4v5rc6235r2u6bpigk223ajrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759986651228-t4rrc6n9f3kor356aee2kgi1n1m71bid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "im.zego.liveAudioRoom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
